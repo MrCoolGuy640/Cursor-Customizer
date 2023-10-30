@@ -11,3 +11,7 @@ A python program to customise your cursor design! Accepts .ani and .cur files to
 2. Make sure you have some cursor files (.cur) ready to go. [ADDING .ani file support for animated cursors SOON!]
 3. Place your cursor files in 'Cursors' directory.
 4. Run main.py!
+
+**COMING SOON**:
+- .ani file support for animated cursors.
+- Bug fix for having to restart app before cursors are applied.
