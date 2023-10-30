@@ -15,3 +15,8 @@ A python program to customise your cursor design! Accepts .ani and .cur files to
 **COMING SOON**:
 - .ani file support for animated cursors.
 - Bug fix for having to restart app before cursors are applied.
+
+**REQUIREMENTS**:
+- Windows OS
+- Python
+- Libraries from requirements.txt
