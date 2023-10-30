@@ -8,6 +8,6 @@ A python program to customise your cursor design! Accepts .ani and .cur files to
 
 **SETUP**:
 1. Install all requirements in requirements.txt.
-2. Make sure you have some cursor files (.cur or .ani) ready to go.
+2. Make sure you have some cursor files (.cur) ready to go. [ADDING .ani file support for animated cursors SOON!]
 3. Place your cursor files in 'Cursors' directory.
 4. Run main.py!
